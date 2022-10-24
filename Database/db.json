@@ -1,8 +1,8 @@
 {
     "Categeries":[
-       
+
 {
-    
+
 
     "id":1,
     "name":"male"
@@ -36,11 +36,11 @@
         },
         {"id":2,
         "name":" t-shirt sportee - white",
-        "description":"Men's short-sleeved fitted-cut crew neck cotton fitness t-shirt sportee - white",
+        "description":"Men's short-sleeved fitted-cut crew neck cotton fitness t-shirt sportee-white",
         "image":"../../../../assets/Images/me2.jpg",
         "price":200,
         "categoryId":"1"
-        
+
 
         },
         {
@@ -61,8 +61,8 @@
             "categoryId":"1"
 
         },
-        
-      
+
+
 
         {
             "id":5,
@@ -214,7 +214,7 @@
 
     ],
 
-    
+
   "cart": [
     {}
   ]
